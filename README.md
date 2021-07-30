@@ -14,15 +14,18 @@ Este trabajo fue realizado por:
 # **Introducción**
 
 
-Bitcoin es la criptomoneda más antigua y conocida, lanzada por primera vez como código abierto en 2009 por el anónimo Satoshi Nakamoto. Bitcoin funciona como un medio de intercambio digital descentralizado, con transacciones verificadas y registradas en un libro de contabilidad público distribuido (el blockchain) sin necesidad de una autoridad de registro de confianza o un intermediario central. Actualmente esta criptomoneda es noticia en todo el mundo y su popularidad aumenta diariamente a medida que más y más personas/organizaciones comienzan a adoptarla. El objetivo de este tratabajo es realizar el pronóstico del precio del Bitcoin empleando 4 modelos diferentes: SARIMA, ARIMA, LSTM y árboles de desición. A partir de los resultados se realizó el contraste del desempeño de cada modelo mediante la métrica RMSE (Raíz del error cuadrático medio) para poder de encontrar el mejor modelo que permitiera obtener mejores predicciones. Por otra parte, quisimos analizar la existencia de una posible correlación entre Elon Musk y el precio del Bitcoin, debido a que este empresario en los últimos años ha invertido gran cantidad de dinero en Bitcoin. Para realizar este análisis se emplearon los datos de su Twitter personal y mediante técnicas de mineria ded texto extraemos los temas de nuestro interés: El Bitcoin. Finalmente, creamos un modelo que permite extraer las emociones que Elon transmite en sus tweets, con el fin de analizar su comportamiento y de que manera puede influenciar a sus seguidores.
+Bitcoin es la criptomoneda más antigua y conocida, lanzada por primera vez como código abierto en 2009 por el anónimo Satoshi Nakamoto. Bitcoin funciona como un medio de intercambio digital descentralizado, con transacciones verificadas y registradas en un libro de contabilidad público distribuido (el blockchain) sin necesidad de una autoridad de registro de confianza o un intermediario central. Actualmente esta criptomoneda es noticia en todo el mundo y su popularidad aumenta diariamente a medida que más y más personas/organizaciones comienzan a adoptarla. El objetivo de este tratabajo es realizar el pronóstico del precio del Bitcoin empleando 4 modelos diferentes: SARIMA, ARIMA, LSTM y árboles de desición. A partir de los resultados se realizó el contraste del desempeño de cada modelo mediante la métrica RMSE (Raíz del error cuadrático medio) para poder de encontrar el mejor modelo que permitiera obtener mejores predicciones. Por otra parte, quisimos analizar la existencia de una posible correlación entre Elon Musk y el precio del Bitcoin, debido a que este empresario en los últimos años ha invertido gran cantidad de dinero en esta criptomoneda. Para realizar este análisis se emplearon los datos de su Twitter personal y mediante técnicas de mineria de texto extraemos los temas de nuestro interés: El Bitcoin. Finalmente, creamos un modelo que permite extraer las emociones que Elon transmite en sus tweets, con el fin de analizar su comportamiento y de que manera puede influenciar a sus seguidores.
 
 # **Contenido del Git**
 
 * Datos: Aquí se encuentran los datos de los tweets de Elon Musk desde los años 2010- 2021
 * Modelos pronóstico: En esta carpeta se encuentran los 4 códigos de los 4 modelos realizados (Sarima, LSTM, Arima y DT (árboles de decisión). Adicionalmente, se encuentran las salidas de cada modelo.
 * Modelo Elon Musk y Bitcoin: En esta carpeta se encuentra el código y la salida del modelo realizado para extraer las emociones de los tweest de Elon.
-*
 
+
+
+
+# **Especificaciones adicionales**
 
 **Datos**
 
