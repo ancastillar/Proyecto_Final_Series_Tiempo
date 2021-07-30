@@ -21,7 +21,7 @@ Bitcoin es la criptomoneda más antigua y conocida, lanzada por primera vez como
 
 * Tweets de Elon Musk entre los años 2010 y 2021. Estos datos fueron obtenido mediante el API Tweepy: https://www.tweepy.org/
 * Data histórica de la evolución del precio del Bitcoin desde el 2011- 2021. Datos obtenidos de Kaggle: https://www.kaggle.com/mczielinski/bitcoin-historical-data
-* Data histórica de la evolución del precio del Dogecoin. Datos obtenidos de Kaggle: https://www.kaggle.com/dhruvildave/dogecoin-historical-data
+
 
 **Modelos adicionales empleado**
 
