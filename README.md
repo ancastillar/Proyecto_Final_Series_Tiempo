@@ -18,6 +18,11 @@ Bitcoin es la criptomoneda más antigua y conocida, lanzada por primera vez como
 
 # **Contenido del Git**
 
+* Datos: Aquí se encuentran los datos de los tweets de Elon Musk desde los años 2010- 2021
+* Modelos pronóstico: En esta carpeta se encuentran los 4 códigos de los 4 modelos realizados (Sarima, LSTM, Arima y DT (árboles de decisión). Adicionalmente, se encuentran las salidas de cada modelo.
+* Modelo Elon Musk y Bitcoin: En esta carpeta se encuentra el código y la salida del modelo realizado para extraer las emociones de los tweest de Elon.
+*
+
 
 **Datos**
 
